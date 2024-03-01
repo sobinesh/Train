@@ -1,5 +1,5 @@
 <h1><b>Railway Resrvation System in JAVA</b></h1>
-<div>
+<div style="padding-top=100px;margin-top=25px">
   I have designed a railway reservation system purely using java to book , cancel , print all tickets , etc..
 </div>
   <div style="padding-top=100px;margin-top=25px">
