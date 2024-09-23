@@ -1,5 +1,4 @@
 # Railway Resrvation System in JAVA
-  ## railway reservation system purely using java
   - Designed a Ticket class to generate ticket and store user data
   - A Train class to manage the booking system, throught which every process is done.
   - Train class also creates ticket only when there is space in the train
